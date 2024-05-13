@@ -13,3 +13,4 @@
 
 ### Atividade: Trello 
 - [individual](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
+- [grupo](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
