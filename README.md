@@ -12,12 +12,15 @@
 ## _Luana Queiroz_
 
 ### Atividades: 
-**SWOT**
+**TRELLO - SWOT**
 - [individual](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
 - [grupo](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
 
  **App para entrega de atividades** 
 - [grupo](https://trello.com/invite/b/FNEcOPRI/ATTIf6a6d5e3a1b8e78c32702926da579a8e377DC7B2/trabalho-em-grupo)
 
-**canva: liguagem de programação - javascript**
+**CANVA: liguagem de programação - javascript**
 - [grupo](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+** CANVA: projeto - aquecimento global**
+- [grupo](https://www.canva.com/design/DAGC38ucRMQ/fH-9GaF5vZwT2X9-wlIXVw/edit?utm_content=DAGC38ucRMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
