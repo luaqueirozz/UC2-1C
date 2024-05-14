@@ -22,5 +22,5 @@
 **CANVA: liguagem de programação - javascript**
 - [grupo](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-** CANVA: projeto - aquecimento global**
+**CANVA: projeto - aquecimento global**
 - [grupo](https://www.canva.com/design/DAGC38ucRMQ/fH-9GaF5vZwT2X9-wlIXVw/edit?utm_content=DAGC38ucRMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
