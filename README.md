@@ -16,7 +16,7 @@
 - [individual](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
 - [grupo](https://trello.com/invite/b/pDQLz2CP/ATTI37a77b13c7ce23f44895c41beef118c09F217059/luana-queiroz)
 
- **App para entrega de atividades** 
+ **TRELLO - App para entrega de atividades** 
 - [grupo](https://trello.com/invite/b/FNEcOPRI/ATTIf6a6d5e3a1b8e78c32702926da579a8e377DC7B2/trabalho-em-grupo)
 
 **CANVA: liguagem de programação - javascript**
