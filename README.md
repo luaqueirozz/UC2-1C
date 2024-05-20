@@ -20,3 +20,6 @@
 **CANVA**
 - [liguagem de programação: javascript - grupo](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [ projeto; aquecimento global - grupo](https://www.canva.com/design/DAGC38ucRMQ/fH-9GaF5vZwT2X9-wlIXVw/edit?utm_content=DAGC38ucRMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  **MIRO**
+  - [Atividade Individual-Empreendimento](https://miro.com/welcomeonboard/NTFadVFUZDJaYmltZ2xsa1R1NklhZm9vclFRS2VjNzFDZUNyZTlpMkxINFp4VUNaMGN1bHhEVmRlTnpjNUZCc3wzNDU4NzY0NTg4OTk0MTc0OTA0fDI=?share_link_id=3186720406540)
