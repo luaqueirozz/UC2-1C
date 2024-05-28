@@ -28,6 +28,6 @@
 **DOCS**
 - [ Individual - Emprego dos sonhos](https://docs.google.com/document/d/1rw7kGvO5vT4BEe66pBQHn0W0aO-u6bnDLps1jTU4IBI/edit?usp=drivesdk)
 
-  **GRÁFICO GANTT**
+**GRÁFICO GANTT**
 
 - [ grupo - Projeto Fitness](https://docs.google.com/spreadsheets/d/1G1VWxcM7JbDCOmMCh7DgREZ6N2opwprjehFwmUOPJ5o/edit?usp=sharing)
